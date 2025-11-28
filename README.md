@@ -1,2 +1,2 @@
 # my-porfolio
-Document Projects for this portfolio
+Document Portfolio projects
